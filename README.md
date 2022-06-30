@@ -6,7 +6,7 @@
 * Text generation
 * Conclusion Summary
 
-###### game products will be observed by the favourite game according to positive review sentiment.
+###### game products are observed by the favourite game according to positive review sentiment.
 ###### find topics that stand out among positive or negative reviews from selected products using (LDA) Latent derelict. 
 ###### Markov chain is performed to conclude with somewhat meaningful sentences and may prove helpful for building content among the overall product summarisation
 
